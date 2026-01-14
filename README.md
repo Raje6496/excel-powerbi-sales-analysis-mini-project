@@ -6,8 +6,13 @@ This repository showcases a production-style data analytics project built using 
 
 The objective is to convert raw sales data into actionable business insights while demonstrating practical skills expected from a data analyst.
 
-Table of Content
-[Dataset Information](##Dataset Information)
+## Table of Contents
+
+- [Dataset Information](#dataset-information)
+- [Project Workflow Summary](#project-workflow-summary)
+- [Power BI Report Screenshots](#power-bi-report-screenshots)
+- [Outcomes](#outcomes)
+- [Review Insights](#review-insights)
 
 ## Dataset Information
 
@@ -86,7 +91,7 @@ Certain products and categories consistently outperform others
 
 Sales and revenue vary across different time periods
 
-Power BI Report Screenshots
+##Power BI Report Screenshots
 
 1. Data Table View
 
