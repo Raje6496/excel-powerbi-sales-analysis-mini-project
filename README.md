@@ -14,28 +14,28 @@ End-to-end sales and revenue  and Power BI, including data cleaninganalysis usin
 
      This repository showcases a production-style data analytics project built using Microsoft Excel and Power BI. The project follows industry best practices for data analysis, including structured data exploration, preprocessing, modelling with group-by aggregations, DAX-based calculations, and insight-driven visual reporting.
 
-The objective is to convert raw sales data into actionable business insights while demonstrating practical skills expected from a data analyst.
+     The objective is to convert raw sales data into actionable business insights while demonstrating practical skills expected from a data analyst.
 
 
 ## Dataset Information
 
-Source: Kaggle
+   Source: Kaggle
 
-Date Collected: January 18, 2025
+   Date Collected: January 18, 2025
 
-Format: Excel (.xlsx)
+   Format: Excel (.xlsx)
 
-Type: Sales transactional data
+   Type: Sales transactional data
 
-Tools & Technologies
+   Tools & Technologies
 
-Microsoft Excel
+   Microsoft Excel
 
-Microsoft Power BI
+   Microsoft Power BI
 
-Power Query
+   Power Query
 
-DAX (Data Analysis Expressions)
+   DAX (Data Analysis Expressions)
 
 ## Project Workflow Summary
 
@@ -131,39 +131,39 @@ DAX (Data Analysis Expressions)
   . Which products should be prioritized to increase overall sales?
   
      Top-performing categories include butchers, electrical and household essentials with consistently high revenue and stable non-discounted sales should be prioritized, as they contribute most to profitability according to the Power BI group-by analysis.
- 
-.How is the overall sales performance?
 
-  Total sales amount to ₹1.6M, generated from 12K transactions, indicating strong sales volume with steady demand.
+  . How is the overall sales performance?
 
-. What is the impact of discounts on revenue?
+     Total sales amount to ₹1.6M, generated from 12K transactions, indicating strong sales volume with steady demand.
 
-   Discounted revenue contributes ₹525K, while ₹1M comes from non-discounted sales.
-   This shows that the majority of revenue is driven by full-price purchases, with discounts acting as a support rather than the primary driver.
+  . What is the impact of discounts on revenue?
 
-. How does sales trend over time?
+     Discounted revenue contributes ₹525K, while ₹1M comes from non-discounted sales.
+     This shows that the majority of revenue is driven by full-price purchases, with discounts acting as a support rather than the primary driver.
 
-   Sales show fluctuating but consistent performance across months, with noticeable peaks during specific periods, indicating seasonal demand patterns.
+  . How does sales trend over time?
 
-. Which customer type contributes the most?
+     Sales show fluctuating but consistent performance across months, with noticeable peaks during specific periods, indicating seasonal demand patterns.
 
-   The Top 5 customers contribute a significant share of total spending, highlighting customer concentration and the importance of retaining high-value customers.they were cust-24, cust-08, cust-05, cust-16, cust-13
+  . Which customer type contributes the most?
 
-. How does spending differ by day type?
+     The Top 5 customers contribute a significant share of total spending, highlighting customer concentration and the importance of retaining high-value customers.they were cust-24, cust-08, cust-05, cust-16,        cust-13
 
-   Weekday sales are higher than weekend sales, suggesting business-day purchasing behavior dominates customer activity.
+   . How does spending differ by day type?
 
-. Which payment mode is most preferred?
+     Weekday sales are higher than weekend sales, suggesting business-day purchasing behavior dominates customer activity.
 
-   Cash payments dominate, while Card contributes a smaller share, reflecting a strong shift toward digital payment methods.
+   . Which payment mode is most preferred?
 
-. How does location affect total spending?
+     Cash payments dominate, while Card contributes a smaller share, reflecting a strong shift toward digital payment methods.
 
-   online purchases slightly outperform instore sales, indicating customers  prefer online interactions for this business.
+   . How does location affect total spending?
 
-Q10. What is the discount vs non-discount purchasing behavior?
+     online purchases slightly outperform instore sales, indicating customers  prefer online interactions for this business.
 
-   Non-discounted purchases account for a larger portion of sales, implying customers are not highly price-sensitive and value product quality or convenien
+    . What is the discount vs non-discount purchasing behavior?
+
+     Non-discounted purchases account for a larger portion of sales, implying customers are not highly price-sensitive and value product quality or convenien
 
 
 
