@@ -27,15 +27,15 @@ End-to-end sales and revenue  and Power BI, including data cleaninganalysis usin
 
    Type: Sales transactional data
 
-   Tools & Technologies
+   Tools & Technologies:
 
-   Microsoft Excel
+   . Microsoft Excel
 
-   Microsoft Power BI
+   . Microsoft Power BI
 
-   Power Query
+   . Power Query
 
-   DAX (Data Analysis Expressions)
+   . DAX (Data Analysis Expressions)
 
 ## Project Workflow Summary
 
