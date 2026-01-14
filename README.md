@@ -1,18 +1,21 @@
 # Excel-powerbi-sales-analysis-mini-project
 End-to-end sales and revenue  and Power BI, including data cleaninganalysis using Excel, group-by modelling, DAX measures, and interactive dashboards.
-## Project Overview
-
-This repository showcases a production-style data analytics project built using Microsoft Excel and Power BI. The project follows industry best practices for data analysis, including structured data exploration, preprocessing, modelling with group-by aggregations, DAX-based calculations, and insight-driven visual reporting.
-
-The objective is to convert raw sales data into actionable business insights while demonstrating practical skills expected from a data analyst.
 
 ## Table of Contents
 
+ -[Project Overview](#project-overview)
 - [Dataset Information](#dataset-information)
 - [Project Workflow Summary](#project-workflow-summary)
 - [Power BI Report Screenshots](#power-bi-report-screenshots)
 - [Outcomes](#outcomes)
 - [Review Insights](#review-insights)
+
+- ## Project Overview
+
+This repository showcases a production-style data analytics project built using Microsoft Excel and Power BI. The project follows industry best practices for data analysis, including structured data exploration, preprocessing, modelling with group-by aggregations, DAX-based calculations, and insight-driven visual reporting.
+
+The objective is to convert raw sales data into actionable business insights while demonstrating practical skills expected from a data analyst.
+
 
 ## Dataset Information
 
