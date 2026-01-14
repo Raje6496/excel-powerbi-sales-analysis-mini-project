@@ -122,6 +122,4 @@ Rajeswari K
 
 
 
-Business-focused language (what insights each visual delivers)
 
-Recruiter-friendly phrasing aligned with real-world analytics work
