@@ -3,7 +3,7 @@ End-to-end sales and revenue  and Power BI, including data cleaninganalysis usin
 
 ## Table of Contents
 
- -[Project Overview](#project-overview)
+  [Project Overview](#project-overview)
 - [Dataset Information](#dataset-information)
 - [Project Workflow Summary](#project-workflow-summary)
 - [Power BI Report Screenshots](#power-bi-report-screenshots)
