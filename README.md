@@ -6,6 +6,9 @@ This repository showcases a production-style data analytics project built using 
 
 The objective is to convert raw sales data into actionable business insights while demonstrating practical skills expected from a data analyst.
 
+Table of Content
+[Dataset Information](##Dataset Information)
+
 ## Dataset Information
 
 Source: Kaggle
@@ -116,6 +119,7 @@ Caption: Comparative visual highlighting the impact of discounts on sales quanti
 <img width="307" height="301" alt="image" src="https://github.com/user-attachments/assets/7b72956e-0635-4ef2-8121-54a38a7974ed" />
 
 ## Outcomes
+
 - Delivered a clean and interactive Power BI dashboard
 
 - <img width="1366" height="735" alt="Screenshot 2026-01-14 152510" src="https://github.com/user-attachments/assets/e598f874-958f-434f-b2d7-b75a45887cd4" />
@@ -124,29 +128,39 @@ Caption: Comparative visual highlighting the impact of discounts on sales quanti
 - Demonstrated strong Excel preprocessing and Power BI modeling skills
 
   ## Review Insights
+  
   . Which products should be prioritized to increase overall sales?
+  
    Top-performing categories include butchers, electrical and household essentials with consistently high revenue and stable non-discounted sales should be prioritized, as they contribute most to profitability according to the Power BI group-by analysis.
  
 .How is the overall sales performance?
+
 Total sales amount to ₹1.6M, generated from 12K transactions, indicating strong sales volume with steady demand.
 
 . What is the impact of discounts on revenue?
+
 Discounted revenue contributes ₹525K, while ₹1M comes from non-discounted sales.
 This shows that the majority of revenue is driven by full-price purchases, with discounts acting as a support rather than the primary driver.
 
 . How does sales trend over time?
+
 Sales show fluctuating but consistent performance across months, with noticeable peaks during specific periods, indicating seasonal demand patterns.
 
 . Which customer type contributes the most?
 
-The Top 5 customers contribute a significant share of total spending, highlighting customer concentration and the importance of retaining high-value customers.they were cust-24, cust-08, cust-05, cust-16, cust-13.
+The Top 5 customers contribute a significant share of total spending, highlighting customer concentration and the importance of retaining high-value customers.they were cust-24, cust-08, cust-05, cust-16, cust-13
+
 . How does spending differ by day type?
+
 Weekday sales are higher than weekend sales, suggesting business-day purchasing behavior dominates customer activity.
+
 . Which payment mode is most preferred?
-UPI and Card payments dominate, while Cash contributes a smaller share, reflecting a strong shift toward digital payment methods.
+
+ Cash payments dominate, while Card contributes a smaller share, reflecting a strong shift toward digital payment methods.
 
 . How does location affect total spending?
-In-store purchases slightly outperform online sales, indicating customers still prefer physical store interactions for this business.
+
+online purchases slightly outperform instore sales, indicating customers  prefer online interactions for this business.
 
 Q10. What is the discount vs non-discount purchasing behavior?
 
