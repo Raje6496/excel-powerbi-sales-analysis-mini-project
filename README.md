@@ -91,7 +91,7 @@ Certain products and categories consistently outperform others
 
 Sales and revenue vary across different time periods
 
-##Power BI Report Screenshots
+## Power BI Report Screenshots
 
 1. Data Table View
 
