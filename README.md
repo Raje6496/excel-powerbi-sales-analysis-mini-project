@@ -1,4 +1,4 @@
-# Excel-powerbi-sales-analysis-mini-project
+# Sales & Revenue Analysis using Excel and Power BI
 End-to-end sales and revenue  and Power BI, including data cleaninganalysis using Excel, group-by modelling, DAX measures, and interactive dashboards.
 
 ## Table of Contents
